@@ -1,6 +1,9 @@
 # Python Problem Solving
 Hello this is Akhilesh.
-This is a repository about all the campus coding questions I have solved up until now. Hope you are doing well.
+This is a repository about the campus coding round problems I solve once in a while, yes I do remember to commit them here (sometimes)! 
+
+I hope you are doing well.
+
 ## List of companies
 * Capgemini Tech Challenge
 * Wipro
@@ -8,6 +11,7 @@ This is a repository about all the campus coding questions I have solved up unti
 * Emtec
 * Amazon SDE - 1
 * Rudder
+* Tech Mahindra
 
 Best of luck for your placements.
 
