@@ -12,6 +12,7 @@ I hope you are doing well.
 * Amazon SDE - 1
 * Rudder
 * Tech Mahindra
+* Infosys
 
 Best of luck for your placements.
 
