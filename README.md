@@ -14,6 +14,8 @@ I hope you are doing well.
 * Tech Mahindra
 * Infosys
 
+(Also includes hackerrank 30 days challenge till Day 20)
+
 Best of luck for your placements.
 
 K. Bye.
