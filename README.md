@@ -6,6 +6,7 @@ I hope you are doing well.
 
 ## List of companies
 * Capgemini Tech Challenge
+* KPIT
 * Wipro
 * Accenture
 * Emtec
